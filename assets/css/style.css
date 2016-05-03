@@ -1,0 +1,66 @@
+*{
+	box-sizing: border-box;
+	overflow: auto;
+}
+header{
+	background: #ffffff;
+	border-bottom-color: #cccccc;
+}
+a.link{
+	color: white;
+}
+h1{
+	color: #4aaaa5;
+	font-size: 20px;
+}
+h2{
+	color: #4aaaa5;
+	font-size: 15px;
+}
+.Name{
+	background: #4aaaa5;
+	color: white;
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+	padding-top: 15px;
+	margin-left: 200px;
+	position: relative;
+	text-align: center;
+}
+.Pages{
+	position: relative;
+	width: 960px;
+	margin-left: 900px;
+	margin-top: -25px;
+	padding-bottom: 10px;
+}
+.container{
+	margin: 0 auto;
+	background: #F5F5DC;
+	width: 960px;
+}
+#main-bio{
+	margin-left: 25px;
+	background: #ffffff;
+	width: 650px;
+}
+#bio-image{
+	margin-right: 10px;
+}
+#contact-info{
+	float: right;
+	background: #ffffff;
+	width: 270px;
+}
+.footer{
+	clear: both;
+	background:#666666;
+	border-top-color:;
+	height: 75px;
+	padding-top: 30;
+	width: 960px;
+	color: white;
+	text-align: center;
+	font-size: 10px;
+}
