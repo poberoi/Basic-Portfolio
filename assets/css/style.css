@@ -2,6 +2,9 @@
 	box-sizing: border-box;
 	overflow: auto;
 }
+body{
+	height: 100%;
+}
 header{
 	background: #ffffff;
 	border-bottom-color: #cccccc;
@@ -35,13 +38,16 @@ h2{
 	margin-top: -25px;
 	padding-bottom: 10px;
 }
-.container{
+.wrapper{
+	height: 100%;
 	margin: 0 auto;
 	background: #F5F5DC;
 	width: 960px;
 }
 #main-bio{
-	margin-left: 25px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 35px;
 	background: #ffffff;
 	width: 650px;
 }
@@ -49,16 +55,22 @@ h2{
 	margin-right: 10px;
 }
 #contact-info{
+	margin-top: 10px;
+	margin-right: 35px;
 	float: right;
-	background: #ffffff;
-	width: 270px;
+  width:200px;
+  background: #ffffff;
+}
+.clear{
+	clear: both;
 }
 .footer{
-	clear: both;
+	position: fixed;
+	bottom: 0;
+	margin: 0 auto;
 	background:#666666;
-	border-top-color:;
 	height: 75px;
-	padding-top: 30;
+	padding-top: 32.5px;
 	width: 960px;
 	color: white;
 	text-align: center;
