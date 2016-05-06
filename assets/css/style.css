@@ -142,10 +142,10 @@ h2{
 }
 #hangman{
 	position: absolute;
-	top: 266px;
+	top: 250px;
 	left: 120px;
 	height: 25px;
-	width: 167px;
+	width: 175px;
 	background: #4aaaa5;
 	color: white;
 	text-align: center;
@@ -153,10 +153,10 @@ h2{
 }
 #rpg{
 	position: absolute;
-	top: 266px;
-	right: 386px;
+	top: 250px;
+	right: 370px;
 	height: 25px;
-	width: 167px;
+	width: 175px;
 	background: #4aaaa5;
 	color: white;
 	text-align: center;
@@ -164,10 +164,10 @@ h2{
 }
 #trivia{
 	position: absolute;
-	top: 414px;
+	top: 388px;
 	left: 120px;
 	height: 25px;
-	width: 167px;
+	width: 175px;
 	background: #4aaaa5;
 	color: white;
 	text-align: center;
@@ -175,10 +175,10 @@ h2{
 }
 #widget{
 	position: absolute;
-	top: 414px;
-	right: 386px;
+	top: 388px;
+	right: 370px;
 	height: 25px;
-	width: 167px;
+	width: 175px;
 	background: #4aaaa5;
 	color: white;
 	text-align: center;
@@ -186,10 +186,10 @@ h2{
 }
 #rock{
 	position: absolute;
-	top: 562px;
+	top: 526px;
 	left: 120px;
 	height: 25px;
-	width: 167px;
+	width: 175px;
 	background: #4aaaa5;
 	color: white;
 	text-align: center;
